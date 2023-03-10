@@ -1,0 +1,37 @@
+{
+    "cursosP":[
+        {
+            "imagen":"C:/Users/esild/digi-bootcamp/src/components/cursos-presenciales/IMG_0846.JPG",
+            "alt":"Imagen power BI",
+            "titulos":"Microsoft power BI"
+        },          {
+            "imagen":"src/components/cursos-presenciales/IMG_0863.JPG",
+            "alt":"Imagen power BI",
+            "titulos":"Microsoft power BI"
+        },          {
+            "imagen":"src/components/cursos-presenciales/IMG_0891.JPG",
+            "alt":"Imagen power BI",
+            "titulos":"Microsoft power BI"
+        },          {
+            "imagen":"src/components/cursos-presenciales/IMG_0898.JPG",
+            "alt":"Imagen power BI",
+            "titulos":"Microsoft power BI"
+        },          {
+            "imagen":"src/components/cursos-presenciales/WhatsApp Image 2022-12-05 at 12.41.03 PM (1).jpeg",
+            "alt":"Imagen de habilidades agiles",
+            "titulos":"Habilidades agiles"
+        },          {
+            "imagen":"src/components/cursos-presenciales/WhatsApp Image 2022-12-05 at 12.57.50 PM.jpeg",
+            "alt":"Imagen de habilidades agiles",
+            "titulos":"Habilidades agiles"
+        },          {
+            "imagen":"src/components/cursos-presenciales/WhatsApp Image 2022-12-11 at 12.20.42 PM (4).jpeg",
+            "alt":"Imagen de habilidades agiles",
+            "titulos":"Habilidades agiles"
+        },          {
+            "imagen":"src/components/cursos-presenciales/WhatsApp Image 2022-12-11 at 12.20.43 PM.jpeg",
+            "alt":"Imagen de habilidades agiles",
+            "titulos":"Habilidades agiles"
+        }
+    ]
+}
